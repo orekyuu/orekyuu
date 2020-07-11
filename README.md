@@ -14,5 +14,5 @@ Java Engineer
 - 2017- [pixiv](https://www.pixiv.co.jp/)
 
 ## 📧 Contact
-- email orekyuu@gmail.com|
-- Twitter [@orekyuu](https://twitter.com/orekyuu)|
+- email orekyuu@gmail.com
+- Twitter [@orekyuu](https://twitter.com/orekyuu)
