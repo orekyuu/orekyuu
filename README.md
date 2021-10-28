@@ -12,6 +12,7 @@ Java Engineer
 
 ## 🧳Career
 - 2017- [pixiv](https://www.pixiv.co.jp/)
+- 2021- DeNA
 
 ## 📧 Contact
 - email orekyuu@gmail.com
