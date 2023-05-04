@@ -8,6 +8,7 @@ Java Engineer
   - Ruby
 - Framework
   - Spring
+  - Quarkus
   - Ruby on Rails
 
 ## 🧳Career
